@@ -1,4 +1,5 @@
 .idea/
 venv/
 .ipynb_checkpoints/
-__pycache__/
+__pycache__/anaconda_projects/
+*.db
